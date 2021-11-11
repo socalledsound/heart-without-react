@@ -103,12 +103,33 @@ Template literals are a way combining strings and javascript variables.
 
 We write them with backticks rather than quotation marks, and then when we want to include javascript code in them, we write a dollar sign and a pair of curly braces and write our javascript inside them.
 
+python course development - planning stage (c1,2,3)
 
+(subject to updates)
 
 
 # manipulating the DOM
 
 
 
+week1:
+objects + map
+object 
 
+passing props
+
+should we have more on 
+
+week 2: o
+
+
+
+useState()
+
+# week1 workshop
+could be week1 workshop 
+or could be directory
+
+
+# week2 hooks
 

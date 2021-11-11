@@ -53,5 +53,4 @@ render(square, app)
 render(app, document.getElementById('root'))
 
 
-// # 2 more hours just now
 
